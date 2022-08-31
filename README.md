@@ -1,4 +1,4 @@
-# UX-UI-Design Dementia
+# UX-UI-Design Dementia Application
 
 Project One Guidelines
 
