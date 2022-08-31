@@ -1,1 +1,10 @@
 # UX-UI-Design-Project-One
+
+Assignment Guidelines
+
+You work as a freelance UX/UI Designer to offer clients wireframe designs that are based on UX/UI fundamentals and both Android and Apple UI guidelines. This allows you to finalize the vision for clients before the development cycle of their product begins. Your services also include gathering customer data and providing documentation that communicates your design choices. The latter allows clients to understand why specific choices were made along with how the design supports customer needs. You were previously approached with three user stories from different client mobile app design requests:
+1. As a healthy food consumer, I want to use my phone to scan the barcode of a food product and see a graphic of all its ingredients. The graphic will rank how healthy the ingredients are for my body, graphically illustrated in categories of red (unhealthy), yellow (neutral), and green (healthy), so that I can make healthy shopping decisions for my family.
+2. As a concerned family member, I want to receive a notification if my relative, who has dementia, walks more than 1,000 steps from home or leaves the stove on for more than 60 minutes so that I can check on their safety.
+3. As a grower, I want to view a dashboard that informs me of the moisture content and nitrogen levels in the soil at each of my trees so that I can easily target water use and track nitrogen levels.
+You have already selected one of these clients' proposals and begun the preliminary work that will enable you to complete the design. Previously you identified the purpose and goals of the project, conducted a round of interviews, assessed the target audience, developed user personas, and created the paper prototype.
+The client is now ready for you to move forward with work on the digital wireframe design. You will also be writing an explanation of your design to help communicate with your client. Part of this communication will involve an assessment of how the design could be tailored to fit a digital watch or kiosk because your client is considering alternate methods to expand the product.
