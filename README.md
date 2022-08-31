@@ -1,6 +1,6 @@
-# UX-UI-Design-Project-One
+# UX-UI-Design Dementia
 
-Assignment Guidelines
+Project One Guidelines
 
 You work as a freelance UX/UI Designer to offer clients wireframe designs that are based on UX/UI fundamentals and both Android and Apple UI guidelines. This allows you to finalize the vision for clients before the development cycle of their product begins. Your services also include gathering customer data and providing documentation that communicates your design choices. The latter allows clients to understand why specific choices were made along with how the design supports customer needs. You were previously approached with three user stories from different client mobile app design requests:
 1. As a healthy food consumer, I want to use my phone to scan the barcode of a food product and see a graphic of all its ingredients. The graphic will rank how healthy the ingredients are for my body, graphically illustrated in categories of red (unhealthy), yellow (neutral), and green (healthy), so that I can make healthy shopping decisions for my family.
